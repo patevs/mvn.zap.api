@@ -1,23 +1,19 @@
-# Project: 
-	
-	> mvn.zap.api 
+# mvn.zap.api
+
+ > OWASP Zed Attack Proxy (ZAP) API implementation written in Java and built with Maven
 
 ----
 
-## Maven (Java)
+## Maven Build Tool
 
-   * [Getting Started](https://maven.apache.org/guides/getting-started/)
-   * [Documentation](http://maven.apache.org/guides/)
-   
-   * [Intro to Lifecycle](https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html)
-   * [Intro (gist)](https://gist.github.com/ashrithr/5624410)
+   * [`Getting Started`](https://maven.apache.org/guides/getting-started/)
 
-   * [Maven Dependency Plugin](https://stackoverflow.com/questions/9833707/invoke-a-jar-file-in-the-m2-repository)
-   * [Copy Dependency](https://maven.apache.org/plugins/maven-dependency-plugin/examples/copying-artifacts.html)
+   * [`Documentation`](http://maven.apache.org/guides/)
 
-### GitHub 
+   * [`Lifecycle`](https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html)
 
-   * [Maven on GitHub](https://stackoverflow.com/questions/14013644/hosting-a-maven-repository-on-github)
-   * [Import Maven into Eclipse](https://stackoverflow.com/questions/4869815/importing-a-maven-project-into-eclipse-from-git)
+   * [`gist`](https://gist.github.com/ashrithr/5624410)
 
-   
+   * [`Dependency Plugin`](https://stackoverflow.com/questions/9833707/invoke-a-jar-file-in-the-m2-repository)
+
+   * [`Copy Artifacts`](https://maven.apache.org/plugins/maven-dependency-plugin/examples/copying-artifacts.html)
